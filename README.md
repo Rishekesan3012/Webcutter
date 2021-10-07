@@ -24,7 +24,7 @@ To deploy this project run
 ## Authors
 
 - [Eswar](https://www.github.com/eswardivi)
-- []
-- []
-- []
-- []  
+- [Pranav](https://github.com/genpranav)
+- [Rahul G](https://github.com/DoomSlayer64)
+- [Rishi]()
+- [Harsha]() 
